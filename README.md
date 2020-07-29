@@ -22,7 +22,7 @@
 
   ## Installation:
 
-  Clone repository from Github at ---------  . NPM init and install dependencies.
+  Clone repository from Github at https://github.com/Arati15/Note_Taker . NPM init and install dependencies.
 
 ---
 
